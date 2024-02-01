@@ -1,4 +1,4 @@
-# Comandos útiles de Git
+# Comandos útiles de GitHub
 
 1.  git init `va a inicializar mi repositorio`
 2. git git branch -M main `permite cambiar el nombre de la rama master a main`
