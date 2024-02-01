@@ -16,6 +16,6 @@
 10.  git checkout nombreDeLaRama `permite moverse entre ramas`
 11. git git merge rama-heroes `permite fusionar la rama actual a la rama especificada`
 12. git branch -d rama-heroes `permite eliminar una rama`
-
-
+13. git remote add origin https://github.com/rsabando93/comandos-git.git `configuro a que repositorio quiero desplegar mi proyecto`
+14. git push -u origin main `despliego mi proyecto al repositorio origin en la rama main`
 
