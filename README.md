@@ -18,4 +18,5 @@
 12. git branch -d rama-heroes `permite eliminar una rama`
 13. git remote add origin urlDelRepositorioDeGit `configuro a que repositorio quiero desplegar mi proyecto`
 14. git push -u origin main `despliego mi proyecto al repositorio origin en la rama main`
+15. git push `actualizo los cambios en mi repositorio`
 
