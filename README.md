@@ -19,4 +19,5 @@
 13. git remote add origin urlDelRepositorioDeGit `configuro a que repositorio quiero desplegar mi proyecto`
 14. git push -u origin main `despliego mi proyecto al repositorio origin en la rama main`
 15. git push `actualizo los cambios en mi repositorio`
+16. git commit -am "mensaje de commit" `permite realizar la accion de git add . y git commit -m al mismo tiempo siempre y cuando la aplicacion ya estuviera desplegada`
 
